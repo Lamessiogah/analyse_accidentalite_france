@@ -140,7 +140,7 @@ L'analyse a permis de :
 
 ### Accidents par type de route
 
-![Routes](images/accidents_routes.png)
+![Routes](https://github.com/Lamessiogah/analyse_accidentalite_france/blob/main/accidents%20route.png)
 
 ---
 
