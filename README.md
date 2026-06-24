@@ -131,7 +131,7 @@ L'analyse a permis de :
 ## 📷 Visualisations
 
 ### Tableaux de bord
-[Affichage du terminal](https://github.com/Lamessiogah/analyse_accidentalite_france/blob/main/tableau%20de%20bord.png)
+![Affichage du terminal](https://github.com/Lamessiogah/analyse_accidentalite_france/blob/main/tableau%20de%20bord.png)
 
 ### Accidents par mois
 
