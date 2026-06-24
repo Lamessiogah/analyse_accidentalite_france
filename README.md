@@ -130,6 +130,9 @@ L'analyse a permis de :
 
 ## 📷 Visualisations
 
+### Tableaux de bord
+[Affichage du terminal]()
+
 ### Accidents par mois
 
 ![Accidents par mois](https://github.com/Lamessiogah/analyse_accidentalite_france/blob/main/accidents%20mois.png)
