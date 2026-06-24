@@ -1,21 +1,17 @@
 # 🚗 Analyse de l'Accidentalité Routière en France (2024)
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+
+Projet d'analyse exploratoire des accidents corporels de la circulation en France à partir des données ouvertes 2024.
+
+Objectif : identifier les facteurs de risque routier, mesurer la gravité des accidents et construire des indicateurs d'aide à la décision pour la sécurité routière.
 ## 📌 Présentation
 
 Ce projet analyse les accidents corporels de la circulation routière en France en 2024 à partir des données ouvertes de l'accidentalité routière.
 
 L'objectif est d'identifier les facteurs de risque, mesurer la gravité des accidents, classer les types de routes selon leur niveau de risque et proposer des recommandations pour améliorer la sécurité routière.
-
----
-
-## 🎯 Objectifs
-
-* Analyser la répartition des accidents dans le temps.
-* Étudier l'influence des conditions météorologiques.
-* Comparer les différents types de routes.
-* Mesurer la gravité des accidents.
-* Construire un score de risque.
-* Générer des recommandations d'aide à la décision.
 
 ---
 
@@ -120,6 +116,33 @@ Le programme produit :
 * Un fichier d'export CSV.
 
 ---
+## 📌 Résultats clés
+
+L'analyse a permis de :
+
+- Identifier les catégories de routes les plus accidentogènes.
+- Mesurer le taux d'accidents graves selon le type d'infrastructure.
+- Évaluer l'influence des conditions météorologiques.
+- Construire un score de risque combinant fréquence et gravité des accidents.
+- Générer automatiquement un classement des infrastructures prioritaires.
+
+---
+
+## 📷 Visualisations
+
+### Accidents par mois
+
+![Accidents par mois](images/accidents_mois.png)
+
+### Accidents selon la météo
+
+![Météo](images/accidents_meteo.png)
+
+### Accidents par type de route
+
+![Routes](images/accidents_routes.png)
+
+---
 
 ## 📁 Export
 
@@ -136,7 +159,7 @@ Ce fichier contient le classement des catégories de routes du plus risqué au m
 Cloner le dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/accidentalite-routiere.git
+git clone https://github.com/Lamessiogah/analyse_accidentalite_france.git
 ```
 
 Installer les dépendances :
@@ -167,6 +190,8 @@ python analyse_accidents.py
 
 **Lamessi Jérôme OGAH**
 
-Étudiant en Master Modélisation de Données – Université de Lille
+🎓 Master Modélisation de Données – Université de Lille
 
-Intéressé par la Data Science, la modélisation statistique, l'intelligence artificielle et l'aide à la décision.
+📊 Data Analytics | Data Science | Machine Learning
+
+🔗 LinkedIn : https://www.linkedin.com/in/lamessi-jer%C3%B4me-ogah-b14186329/
