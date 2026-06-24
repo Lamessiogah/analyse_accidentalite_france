@@ -132,7 +132,7 @@ L'analyse a permis de :
 
 ### Accidents par mois
 
-![Accidents par mois](images/accidents_mois.png)
+![Accidents par mois](https://github.com/Lamessiogah/analyse_accidentalite_france/blob/main/accidents%20mois.png)
 
 ### Accidents selon la météo
 
